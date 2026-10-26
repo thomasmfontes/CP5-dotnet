@@ -1,0 +1,44 @@
+## .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.sln.docstates
+.vs/
+.idea/
+.vscode/
+
+## Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+## Visual Studio cache / user files
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svclog
+
+## Test Results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+## Windows temporary files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/

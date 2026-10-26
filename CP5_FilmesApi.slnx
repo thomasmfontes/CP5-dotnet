@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="CP5.Api/CP5.Api.csproj" />
+  <Project Path="CP5.Application/CP5.Application.csproj" />
+  <Project Path="CP5.Domain/CP5.Domain.csproj" />
+  <Project Path="CP5.Infrastructure/CP5.Infrastructure.csproj" />
+  <Project Path="CP5.IntegrationTests/CP5.IntegrationTests.csproj" />
+  <Project Path="CP5.UnitTests/CP5.UnitTests.csproj" />
+</Solution>
